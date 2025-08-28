@@ -1,1 +1,3 @@
 # KooDiscourseAnalysis
+
+Access files here: [https://drive.google.com/drive/folders/1eJOHaGW8b9f4V7Dgv85lFAk1S-ez215h?usp=sharing](url)
